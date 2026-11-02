@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+
+# ArduPilot SITL and Mission Planner output
+logs/*
+!logs/README.md
+*.BIN
+*.bin
+*.tlog
+*.tlog.raw
+*.rlog
+eeprom.bin
+mav.parm
+terrain/
+patrol_result.json
+
+# ROS 2 / colcon
+ros2_ws/build/
+ros2_ws/install/
+ros2_ws/log/
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

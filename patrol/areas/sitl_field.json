@@ -1,0 +1,10 @@
+{
+  "name": "SITL test field next to the default home (CMAC, Canberra)",
+  "note": "About 70 x 50 m, starting 20 m north of home. SITL's default home is -35.363262, 149.165237.",
+  "corners": [
+    [-35.36308, 149.16490],
+    [-35.36308, 149.16567],
+    [-35.36263, 149.16567],
+    [-35.36263, 149.16490]
+  ]
+}

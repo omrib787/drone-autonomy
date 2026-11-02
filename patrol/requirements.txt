@@ -1,0 +1,4 @@
+pymavlink>=2.4.40
+pytest
+# On the Pi, for the real camera (picamera2 comes from apt: python3-picamera2):
+# opencv-contrib-python
